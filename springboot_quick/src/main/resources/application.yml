@@ -1,0 +1,11 @@
+ #普通数据的配置
+name: zhangsan
+
+#对象的配置
+persion:
+ name: zhangsan
+ age: 18
+ addr: beijing
+
+server:
+   port: 8081

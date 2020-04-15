@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.itheima.controller.Quick3Controller",
+      "name": "persion",
+      "type": "com.itheima.controller.Quick3Controller"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.itheima.controller.Quick3Controller",
+      "name": "persion.addr",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.itheima.controller.Quick3Controller",
+      "name": "persion.name",
+      "type": "java.lang.String"
+    }
+  ]
+}
